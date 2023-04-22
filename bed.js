@@ -3,7 +3,7 @@ objects = [];
 
 
 function preload(){
-    img = loadImage("basket.png");
+    img = loadImage("bed.jpg");
 }
 
 function setup(){
